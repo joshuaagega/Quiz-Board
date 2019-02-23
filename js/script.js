@@ -6,7 +6,7 @@ $(document).ready(function () {
     var number1 = parseInt($("input:radio[name=html]:checked").val());
     var number2 = parseInt($("input:radio[name=css]:checked").val());
     var number3 = parseInt($("input:radio[name=javascript]:checked").val());
-    var finalnumber = parseInt((number1 + number2 + number3+ array) / 60 * 100);
-    $("output1").text("display"+"you got;")
+    var finalnumber = parseInt((number1 + number2 + number3) / 60 * 100);
+    $("output1").text("finalnumber"+"you got;")
   });
 });
