@@ -1,5 +1,6 @@
 # The Quiz Board
-
+# Author
+Joshua Agega 
 # Description
 This is an application that has a few questions to a student studying software development.A student reads the questions and answers them,the answered question are submitted.The results to the answered quiz is given below the page.the link to the live page is:file:///home/joshua/Documents/quiz-board/index.html?html=10&css=10&javascript=10&button=
 ## Installation Requirements
@@ -13,7 +14,5 @@ The technologies used are the following;
  3.JavaScript.
  4.jquery
 ## Contact details
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+You can reach me through email;javanmega0@gmail.com
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) {year} **{List of contributors or company name}**
