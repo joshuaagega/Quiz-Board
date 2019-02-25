@@ -14,5 +14,16 @@ $(document).ready(function () {
     $("#output1").text(finalnumber);
     var scores=percentage(finalnumber,maxi,total)
     $("#output1").text(scores + " %");
+
+    if (percentage=75) {
+      $("#output2").text("EXCELLENT");
+    } else if (percentage >= 65 ) {
+      $("#output2").text("AVERAGE");
+    } else if (percentage >= 50 ) {
+      $("#output2").text("FAIL");
+    } else {
+      $("output2").text("FAIL");
+    }
+
 });
 });
